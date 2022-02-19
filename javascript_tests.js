@@ -1,3 +1,20 @@
+/*
+Some exercises in javascript using arrow functions
+
+You can test it in:
+	- https://playcode.io/new/
+	- https://www.typescriptlang.org/play
+	- https://runjs.app/
+
+Expected outcome:
+  - Hello world
+  - var1 = b var2 = a var3 = c var4 = 1
+  - var1 = a var2 = b var3 = c var4 = 1
+  - ["1","2","1","2"]
+  - drow olleH
+  - The longestWord word is occurrence
+*/
+
 //Just a "Hello world"
 const message = 'Hello world'
 console.log(message)
