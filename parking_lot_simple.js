@@ -1,5 +1,5 @@
 // Simple parking lot
-// It will simulate a parking log with lots in only one size.
+// It will simulate a parking lot with lots in only one size.
 //
 // Usage:
 //   - Create a parking: const parking = new ParkingLot(5);
