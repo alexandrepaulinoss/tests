@@ -1,6 +1,4 @@
-# tests
-
-This is just a playground
+# This is just a playground
 
 
 ## javascript_tests.js
